@@ -3,7 +3,7 @@ import data
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from pages.pages import UrbanRoutesPage
+from pages.urban_routes_page import UrbanRoutesPage
 
 
 class TestUrbanRoutes:

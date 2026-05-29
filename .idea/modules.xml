@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject.iml" filepath="$PROJECT_DIR$/.idea/PythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qa-automation-pom-framework.iml" filepath="$PROJECT_DIR$/.idea/qa-automation-pom-framework.iml" />
     </modules>
   </component>
 </project>
